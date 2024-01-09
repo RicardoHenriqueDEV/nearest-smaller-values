@@ -55,5 +55,5 @@ console.log(result.reverse().join(" "));
     
     * The reversed presentation as string, separated by space is achieved with result.reverse().join(" ").
 
-   > [!NOTE]  
-   > **The Result array presents only the 15 values found from the initial 16 values, and the reason is that the fisrt index, in this case is the number 0, has no previous value inside the array, so it's ignored in this case, but some challanges may ask you to represt it in the result array as -1 or null ... in this cases you could add a condition inside the second loop to handle it.**
+> [!NOTE]  
+> **The Result array presents only the 15 values found from the initial 16 values, and the reason is that the fisrt index, in this case is the number 0, has no previous value inside the array, so it's ignored in this case, but some challanges may ask you to represt it in the result array as -1 or null ... in this cases you could add a condition inside the second loop to handle it.**
